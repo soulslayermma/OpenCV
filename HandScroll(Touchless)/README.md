@@ -38,7 +38,7 @@ A hands-free scroll controller using Python, OpenCV, and MediaPipe. This tool al
 ---
 
 ## 🖥️ Installation & Run
-
+### USE SPEC FILE TO COMPILE OTHERWISE IT WON'T PACK ALL DEPENDENCIES)
 ```bash
 git clone https://github.com/yourusername/hand-scroll-control.git
 cd hand-scroll-control
